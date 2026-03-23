@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "黄小欧"
 description              : "多标签特征选择"
-repository               : "xiaoouhuang507-ux/xiaoouhuang.github.io"
+repository               : "xiaoouhuang507-ux.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "黄小欧"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/标清照_1718506874438018456-612675.jpg"
   bio              : "西南财经大学"
   location         : "四川 成都"
   employer         : #"Hefei General Machinery Research Institute"
